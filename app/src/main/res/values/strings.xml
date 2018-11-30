@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Assign2</string>
+    <string name="button1">Left</string>
+    <string name="button2">Right</string>
+    <string name="button3">Snap</string>
+    <string name="Switch">Switch</string>
+    <string name="auto">Auto</string>
+    <string name="title_activity_canvas">CanvasActivity</string>
+    <string name="audio">Audio</string>
+    <string name="upload">upload</string>
+    <string name="calendar">Calendar</string>
+
+
+    <string name="add">Add Event</string>
+    <string name="lookup">Lookup Event</string>
+    <string name="title">Title:</string>
+    <string name="desc">Description</string>
+    <string name="location">Event_Location</string>
+    <string name="time">Event Time</string>
+    <string name="lookupPlaceholder">Lookup Events based on Time and Location:</string>
+
+</resources>
